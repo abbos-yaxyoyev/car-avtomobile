@@ -1,0 +1,8 @@
+export const ERROR_CODES = {
+  BASE: 10000,
+  CATEGORY: 12000,
+  EMPLOYEE: 13000,
+  ROLE: 14000,
+  FILE: 15000,
+  CAR: 16000,
+};
